@@ -27,22 +27,22 @@ This project is intended as:
 * A lightweight Minecraft-style prototype
 * A base for further development (e.g., crafting, inventory, multiplayer)
 
-🎮 Controls
+#🎮 Controls
 
-# Player
+### Player
 | Key / Action | What it does |
 |---|---|
 | `W` `A` `S` `D` | Move forward / left / backward / right |
 | `Mouse movement` | Look around |
 | `Space` | Jump |
 
-# Building
+### Building
 | Key / Action | What it does |
 |---|---|
 | `Left Click` | Place a block on the face you are pointing at |
 | `Right Click` | Break the block you are pointing at |
 
-# Car
+### Car
 | Key | What it does |
 |---|---|
 | `O` | Move car forward |
@@ -50,7 +50,7 @@ This project is intended as:
 | `L` | Rotate car one way |
 | `J` | Rotate car the other way |
 
-▶️ How to run
+##▶️ How to run
 1. Install Python 3.x
 2. Install Ursina: `pip install ursina`
 3. Run: `python main.py`
